@@ -1,19 +1,19 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "fr"
+languageName = "French"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "CMP 1315"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "Site web du CMP 1315 - Centre médical de Piétrebais"
 
 [params.author]
-  # name = "Your name here"
+  name = "CMP 1315"
   # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
