@@ -1,6 +1,6 @@
 ---
 title: "Arnaud Desclée"
-description: "Informations concernant Arnaud Desclée"
+description: "Informations concernant Arnaud Desclée, ostéopathe au sein du CMP 1315"
 showTableOfContents: true
 ---
 

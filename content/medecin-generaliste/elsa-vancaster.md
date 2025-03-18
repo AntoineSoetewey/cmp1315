@@ -1,6 +1,6 @@
 ---
 title: "Dr Elsa Vancaster"
-description: "Informations concernant le docteur Elsa Vancaster"
+description: "Informations concernant le docteur Elsa Vancaster, médecin généraliste au sein du CMP 1315"
 showTableOfContents: true
 ---
 
