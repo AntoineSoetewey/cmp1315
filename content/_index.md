@@ -2,15 +2,15 @@
 description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: -200px; margin-bottom: -150px;">
-    <img src="/images/logo-CMP1315.png" alt="Centre médical de Piétrebais" width="700px">
+<div class="cover-container">
+    <img src="/images/logo-CMP1315.png" alt="Centre médical de Piétrebais">
 </div>
-     
-<div style="text-align: center; line-height: 1.2;">
-    <p style="margin: 5px 0;">Bienvenue sur le site du Centre Médical de Piétrebais.</p>
-    <p style="margin: 5px 0;">
+
+<div class="text-container">
+    <p>Bienvenue sur le site du Centre Médical de Piétrebais.</p>
+    <p>
         Notre équipe de praticiens vous accueille au 
-        <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank" style="text-decoration: none; color: #007BFF;">
+        <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank">
             6 Rue Fond du Village.
         </a>
     </p>

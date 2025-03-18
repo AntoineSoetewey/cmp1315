@@ -1,0 +1,43 @@
+/* Supprime toute marge et padding autour du logo */
+.cover-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto; /* Empêche un éventuel étirement vertical */
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Ajuste la taille du logo */
+.cover-container img {
+    width: 40%; /* Réduction de la taille */
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Supprime les marges supplémentaires */
+.text-container {
+    text-align: center;
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Supprime les marges et paddings globaux du body */
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+/* Supprime tout padding/marge du premier élément de la page */
+body > *:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Supprime les marges en haut et en bas de la section si elle existe */
+section, header {
+    margin: 0 !important;
+    padding: 0 !important;
+}
