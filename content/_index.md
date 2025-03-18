@@ -39,11 +39,11 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 des nouveau-nés grâce à ma formation en ONE.
             </p>
             <p>
-                📅 <a href="https://docteurelsavancaster.mikrono.com/" target="_blank" 
+                :date: <a href="https://docteurelsavancaster.mikrono.com/" target="_blank" 
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Prendre rendez-vous</a>  
                 <br>
-                🌍 <a href="/medecin-generaliste/elsa-vancaster/"
+                :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/"
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Voir la fiche du praticien</a>
             </p>
@@ -62,11 +62,11 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 Diplomé en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois au sein du CMP 1315 le mardi et le jeudi.
             </p>
             <p>
-                📅 <a href="https://www.osteopathearnauddesclee.com/" target="_blank" 
+                :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank" 
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Prendre rendez-vous</a>  
                 <br>
-                🌍 <a href="/osteopathe/arnaud-desclee/" 
+                :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/" 
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Voir la fiche du praticien</a>
             </p>
@@ -87,11 +87,11 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 je vous accueille au CMP 1315 le 1er vendredi après-midi et le 3ème samedi matin de chaque mois.
             </p>
             <p>
-                📅 <a href="#" target="_blank" 
+                :date: <a href="#" target="_blank" 
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Prendre rendez-vous</a>  
                 <br>
-                🌍 <a href="/sage-femme/virginie-vandyck/" 
+                :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/" 
                       style="text-decoration: none; color: #007BFF; font-weight: bold;">
                       Voir la fiche du praticien</a>
             </p>
