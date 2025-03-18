@@ -21,7 +21,7 @@ Nous sommes une équipe de médecins généralistes et de spécialistes qui trav
 <br>
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-    <img src="/img/author.jpg" alt="Dr Elsa Vancaster" style="width: 200px; border-radius: 10px;">
+    <img src="/images/docteur-elsa-vancaster.jpeg" alt="Dr Elsa Vancaster" style="width: 200px; border-radius: 10px;">
     <div style="flex: 1; min-width: 200px;">
         <h3 style="margin: 0;">Dr Elsa Vancaster</h3>
         <p style="margin-top: 5px;">
@@ -53,5 +53,7 @@ Nous sommes une équipe de médecins généralistes et de spécialistes qui trav
         </p>
     </div>
 </div>
+
+Merci pour votre visite !
 
 
