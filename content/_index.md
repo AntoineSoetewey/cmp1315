@@ -25,7 +25,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
     <!-- Praticien 1 : Elsa Vancaster -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
-            <img src="/images/docteur-elsa-vancaster.jpeg" alt="Dr Elsa Vancaster" 
+            <img src="/images/elsa-vancaster/docteur-elsa-vancaster.jpeg" alt="Dr Elsa Vancaster" 
                  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         </div>
         <div style="flex: 1; min-width: 250px;">
@@ -42,13 +42,16 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 <br>
                 :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/">
                       Voir la fiche du praticien</a>
+                <br>
+                :envelope_with_arrow: <a href="mailto:docteurelsavancaster@hotmail.com">
+                      docteurelsavancaster@hotmail.com</a>
             </p>
         </div>
     </div>
     <!-- Praticien 2 : Arnaud Desclée -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
-            <img src="/images/arnaud-desclee.avif" alt="Arnaud Desclée" 
+            <img src="/images/arnaud-desclee/arnaud-desclee.avif" alt="Arnaud Desclée" 
                  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         </div>
         <div style="flex: 1; min-width: 250px;">
@@ -63,13 +66,19 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 <br>
                 :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/">
                       Voir la fiche du praticien</a>
+                <br>
+                :envelope_with_arrow: <a href="mailto:arnaud.desclee@hotmail.com">
+                      arnaud.desclee@hotmail.com</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32476355947">
+                      0476/35.59.47</a>
             </p>
         </div>
     </div>
     <!-- Praticien 3 : Virginie Vandyck -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
-            <img src="/images/virginie-vandyck.jpg" alt="Virginie Vandyck" 
+            <img src="/images/virginie-vandyck/virginie-vandyck.jpg" alt="Virginie Vandyck" 
                  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         </div>
         <div style="flex: 1; min-width: 250px;">
@@ -86,6 +95,12 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 <br>
                 :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/">
                       Voir la fiche du praticien</a>
+                <br>
+                :envelope_with_arrow: <a href="mailto:xxx">
+                      xxx</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32xxx">
+                      xxx</a>
             </p>
         </div>
     </div>
