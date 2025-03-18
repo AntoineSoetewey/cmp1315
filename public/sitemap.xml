@@ -4,7 +4,31 @@
   
     
       <url>
+            <loc>http://localhost:4321/osteopathe/arnaud-desclee/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:4321/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/medecin-generaliste/elsa-vancaster/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/medecin-generaliste/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/osteopathe/</loc>
           </url>
     
   

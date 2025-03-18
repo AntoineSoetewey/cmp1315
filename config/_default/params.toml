@@ -21,9 +21,9 @@ fingerprintAlgorithm = "sha256"
 
 [header]
   layout = "hamburger" # valid options: basic, hamburger, hybrid, custom
-  logo = "img/logo.jpg"
+  # logo = "images/logo-CMP1315.png"
   # logoDark = "img/dark-logo.jpg"
-  showTitle = true
+  showTitle = false
 
 [footer]
   showCopyright = true

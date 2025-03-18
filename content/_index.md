@@ -1,17 +1,8 @@
 ---
-title: ""
 description: "This is a demo of the Congo theme for Hugo."
 ---
 
-![Centre médical de Piétrebais](/img/logo.jpg)
-
-# Centre médical de Piétrebais
-
-{{< lead >}}
-6 Rue Fond du Village 1315 Piétrebais
-{{< /lead >}}
-
-6 Rue Fond du Village 1315 Piétrebais
+<img src="/images/logo-CMP1315.png" alt="Centre médical de Piétrebais" width="750px" style="display: block; margin: auto;">
 
 Bienvue sur le site du CMP 1315, le Centre médical de Piétrebais.
 Nous sommes un centre médical situé à Piétrebais, [6 Rue Fond du Village](https://g.page/docteur-elsa-vancaster?share).
