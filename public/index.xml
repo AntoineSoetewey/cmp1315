@@ -14,5 +14,12 @@
       <guid>http://localhost:4321/medecin-generaliste/elsa-vancaster/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Dr Elsa Vancaster</title>
+      <link>http://localhost:4321/osteopathe/arnaud-desclee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/osteopathe/arnaud-desclee/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
