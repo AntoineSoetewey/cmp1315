@@ -12,8 +12,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
 <div style="text-align: center; line-height: 1.2; margin-top: 10px;">
     <p style="margin: 50px 0 0 0;">Bienvenue sur le site du Centre Médical de Piétrebais.</p>
     <p style="margin: 5px 0;">Notre équipe de praticiens vous accueille au</p>
-        <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank" 
-           style="text-decoration: none; color: #007BFF;">
+        <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank">
             6 Rue Fond du Village.
         </a>
 </div>
@@ -39,12 +38,10 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 des nouveau-nés grâce à ma formation en ONE.
             </p>
             <p>
-                :date: <a href="https://docteurelsavancaster.mikrono.com/" target="_blank" 
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :date: <a href="https://docteurelsavancaster.mikrono.com/" target="_blank">
                       Prendre rendez-vous</a>  
                 <br>
-                :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/"
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/">
                       Voir la fiche du praticien</a>
             </p>
         </div>
@@ -62,12 +59,10 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 Diplomé en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois au sein du CMP 1315 le mardi et le jeudi.
             </p>
             <p>
-                :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank" 
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank">
                       Prendre rendez-vous</a>  
                 <br>
-                :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/" 
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/">
                       Voir la fiche du praticien</a>
             </p>
         </div>
@@ -87,12 +82,10 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 je vous accueille au CMP 1315 le 1er vendredi après-midi et le 3ème samedi matin de chaque mois.
             </p>
             <p>
-                :date: <a href="#" target="_blank" 
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :date: <a href="#" target="_blank">
                       Prendre rendez-vous</a>  
                 <br>
-                :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/" 
-                      style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/">
                       Voir la fiche du praticien</a>
             </p>
         </div>

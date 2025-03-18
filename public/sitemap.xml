@@ -33,5 +33,17 @@
     
   
     
+      <url>
+            <loc>http://localhost:4321/sage-femme/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/sage-femme/virginie-vandyck/</loc>
+          </url>
+    
   
 </urlset>

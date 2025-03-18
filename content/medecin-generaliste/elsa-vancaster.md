@@ -1,8 +1,15 @@
 ---
-title: "Dr Elsa Vancaster"
 description: "Informations concernant le docteur Elsa Vancaster, médecin généraliste au sein du CMP 1315"
 showTableOfContents: true
 ---
+
+<p style="font-size: 0.9em; margin: 0 0 30px 0">
+    ← <a href="/">
+        Retour à la page d'accueil
+    </a>
+</p>
+
+# Dr Elsa Vancaster
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
