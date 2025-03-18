@@ -6,11 +6,18 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
     <img src="/images/logo-CMP1315.png" alt="Centre médical de Piétrebais" width="700px">
 </div>
      
-Bienvue sur le site du CMP 1315, le Centre médical de Piétrebais.
-Nous sommes un centre médical situé à Piétrebais, [6 Rue Fond du Village](https://g.page/docteur-elsa-vancaster?share).
-Nous sommes ouverts du lundi au vendredi de 8h à 18h.
-Nous sommes une équipe de médecins généralistes et de spécialistes qui travaillent ensemble pour vous offrir les meilleurs soins possibles.
+<div style="text-align: center; line-height: 1.2;">
+    <p style="margin: 5px 0;">Bienvenue sur le site du Centre Médical de Piétrebais.</p>
+    <p style="margin: 5px 0;">
+        Notre équipe de praticiens vous accueille au 
+        <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank" style="text-decoration: none; color: #007BFF;">
+            6 Rue Fond du Village.
+        </a>
+    </p>
+</div>
 
+<br>
+<br>
 <br>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; max-width: 700px;">
@@ -19,22 +26,24 @@ Nous sommes une équipe de médecins généralistes et de spécialistes qui trav
     <div style="flex: 1; min-width: 250px;">
         <h2 style="margin: 0; font-size: 1.7em; color: #333;">Dr Elsa Vancaster</h2>
         <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Médecin généraliste</h3>
-        <p style="margin-top: 5px; font-size: 1.1em; color: #555;">
-            Le docteur Elsa Vancaster est spécialiste en XYZ et exerce depuis plus de 10 ans. 
-            Elle se consacre à fournir les meilleurs soins médicaux à ses patients.
+        <p style="margin-top: 3px; font-size: 0.8em; color: #555; line-height: 1.2;">
+            J'assure le suivi médical des patients, de la naissance jusqu’à la fin de vie, 
+            avec une approche humaine et bienveillante. Je propose également un accompagnement spécifique 
+            des nouveau-nés grâce à ma formation en ONE.
         </p>
         <p style="margin-top: 10px;">
-            📅 <a href="https://docteurelsavancaster.mikrono.com/" target="_blank" 
+            :date: <a href="https://docteurelsavancaster.mikrono.com/" target="_blank" 
                   style="text-decoration: none; color: #007BFF; font-weight: bold;">
-                  Prendre RDV</a>  
+                  Prendre rendez-vous</a>  
             <br>
-            🌐 <a href="https://cmp1315.com/medecin-generaliste/elsa-vancaster/" target="_blank" 
+            :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/"
                   style="text-decoration: none; color: #007BFF; font-weight: bold;">
                   Voir la fiche du praticien</a>
         </p>
     </div>
 </div>
 
+<br>
 <br>
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; max-width: 700px;">
@@ -43,22 +52,42 @@ Nous sommes une équipe de médecins généralistes et de spécialistes qui trav
     <div style="flex: 1; min-width: 250px;">
         <h2 style="margin: 0; font-size: 1.7em; color: #333;">Arnaud Desclée</h2>
         <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Ostéopathe</h3>
-        <p style="margin-top: 5px; font-size: 1.1em; color: #555;">
-            Arnaud Desclée est spécialiste en XYZ et exerce depuis plus de 10 ans. 
-            Il se consacre à fournir les meilleurs soins médicaux à ses patients.
+        <p style="margin-top: 3px; font-size: 0.8em; color: #555; line-height: 1.2;">
+            Diplomé en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois au sein du CMP 1315 le mardi et le jeudi.
         </p>
         <p style="margin-top: 10px;">
-            📅 <a href="https://www.osteopathearnauddesclee.com/" target="_blank" 
+            :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank" 
                   style="text-decoration: none; color: #007BFF; font-weight: bold;">
-                  Prendre RDV</a>  
+                  Prendre rendez-vous</a>  
             <br>
-            🌐 <a href="https://cmp1315.com/osteopathe/arnaud-desclee/" target="_blank" 
+            :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/" 
                   style="text-decoration: none; color: #007BFF; font-weight: bold;">
                   Voir la fiche du praticien</a>
         </p>
     </div>
 </div>
 
-Merci pour votre visite !
+<br>
+<br>
 
-
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; max-width: 700px;">
+    <img src="/images/virginie-vandyck.jpg" alt="Virginie Vandyck" 
+         style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
+    <div style="flex: 1; min-width: 250px;">
+        <h2 style="margin: 0; font-size: 1.7em; color: #333;">Virginie Vandyck</h2>
+        <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Sage-femme</h3>
+        <p style="margin-top: 3px; font-size: 0.8em; color: #555; line-height: 1.2;">
+            Maman de trois enfants, je suis sage-femme depuis 1999.
+            Forte de 9 années d’expérience aux Cliniques Universitaires Saint-Luc à Bruxelles, je vous accueille au CMP 1315 le 1er vendredi après-midi et le 3ème samedi matin de chaque mois.
+        </p>
+        <p style="margin-top: 10px;">
+            :date: <a href="#" target="_blank" 
+                  style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                  Prendre rendez-vous</a>  
+            <br>
+            :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/" 
+                  style="text-decoration: none; color: #007BFF; font-weight: bold;">
+                  Voir la fiche du praticien</a>
+        </p>
+    </div>
+</div>
