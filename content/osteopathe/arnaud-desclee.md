@@ -19,11 +19,24 @@ showTableOfContents: true
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Ostéopathe</h3>
             <p>
-                Titulaire d'un master en kinésithérapie obtenu au Parnasse ISEI et d'un diplôme en ostéopathie du Collège Belge d'Ostéopathie.
-                <br>
-                Je vous reçois pour des consultations en ostéopathie le mardi et le jeudi.
+                Titulaire d'un master en kinésithérapie obtenu au Parnasse ISEI et d'un diplôme en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois pour des consultations en ostéopathie le mardi et le jeudi.
             </p>
         </div>
     </div>
+    
+## Consultation
+
+La consultation d'ostéopathie dure 45 minutes et est au tarif de 60€.
+<br>
+Votre mutuelle prend en charge une partie des frais pour vos séances d'ostéopathie.
+
+:information_source: Pour des raisons d'hygiène, merci d'apporter une serviette de bain.
+
+## Comment prendre rendez-vous ?
+
+- :date: Via mon [agenda en ligne](https://www.osteopathearnauddesclee.com/)
+- :telephone_receiver: Par téléphone : [0476/35.59.47](tel:+32476355947) (en cas d'urgence, n'hésitez pas à laisser un message ou à m'envoyer un sms)
+
+
     
 ---
