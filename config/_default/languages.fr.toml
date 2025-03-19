@@ -14,11 +14,11 @@ title = "CMP 1315"
 
 [params.author]
   name = "CMP 1315"
-  image = "images/logo-CMP1315-cropped.png"
+  image = "images/CMP1315.png"
   # headline = "I'm only human"
   # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  links = [
+    { email = "mailto:docteurelsavancaster@hotmail.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -64,4 +64,4 @@ title = "CMP 1315"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]
