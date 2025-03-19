@@ -17,6 +17,7 @@ showTableOfContents: true
         </div>
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Ostéopathe</h3>
             <p>
                 Titulaire d'un master en kinésithérapie obtenu au Parnasse ISEI et d'un diplôme en ostéopathie du Collège Belge d'Ostéopathie.
                 <br>
