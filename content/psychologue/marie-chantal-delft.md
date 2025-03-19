@@ -22,7 +22,7 @@ showTableOfContents: true
         </div>
     </div>
     
-L’expérience professionnelle que j’ai acquise depuis 2009 au sein du Service de Santé Mentale de Wavre m’a permis de **m’ouvrir à une pratique très variée** ; difficultés conjugales et familiales, dépression, assuétudes, burn-out, santé mentale, choc post-traumatique suite à une agression verbale, physique et/ou sexuelle, harcèlement, etc.
+L’expérience professionnelle que j’ai acquise depuis 2009 au sein du Service de Santé Mentale de Wavre m’a permis de **m’ouvrir à une pratique très variée** : difficultés conjugales et familiales, dépression, assuétudes, burn-out, santé mentale, choc post-traumatique suite à une agression verbale, physique et/ou sexuelle, harcèlement, etc.
 
 ## Pourquoi consulter un psy ?
 
@@ -33,7 +33,7 @@ L’expérience professionnelle que j’ai acquise depuis 2009 au sein du Servic
 - Parce que dans mon couple, nous n’arrivons plus à nous écouter et à nous entendre mutuellement.
 - Parce que ma compagne ou compagnon de route a pris un autre chemin ou un autre monde et je suis rempli(e) d’émotions diverses dont je ne sais que faire ni quoi penser.
 - Parce que je suis inquiet(e), désemparé(e), impuissant(e) face aux comportements de mon enfant, de ma compagne, de mon compagnon ou toutes autres personnes proches.
-- etc.
+- Etc.
 
 Quel que soit votre questionnement et/ou votre degré de mal-être et de souffrance, je suis disposée à vous accueillir au sein du CMP 1315 le vendredi :
 
@@ -50,17 +50,13 @@ Quel que soit votre questionnement et/ou votre degré de mal-être et de souffra
 
 Ma première base de travail est **l’écoute active**, bienveillante, dénuée de jugement et centrée sur la personne. Dans ce cadre, je pars du postulat que l’écoute permet au patient de mieux s’entendre lui-même.
 
-Ma deuxième base de travail est une approche systémique. Il excite 4 courants thérapeutiques reconnus en Belgique: le courant analytique, le courant comportementaliste, le courant humaniste et le courant systémique.
+Ma deuxième base de travail est une **approche systémique**. *Qu’est-ce qu’une approche systémique ?* Tout individu vit dans un système. Que celui-ci soit professionnel, familial ou de couple, ce système est constitué d’un ensemble d’individus en interaction entre eux.
 
-### Qu’est-ce qu’une approche systémique ?
-
-Tout individu vit dans un système. Que celui-ci soit professionnel, familial ou de couple, ce système est constitué d’un ensemble d’individus en interaction entre eux.
-
-Dans un suivi thérapeutique, j’accorde donc autant d’**attention au ressenti qu’à l’environnement** (passé et présent) **et à leur interaction** afin d’aider à **mieux comprendre le sens et les rouages relationnels qui se sont installés à un moment de la vie**. Je suis également très attentive à explorer les difficultés, les souffrances, les non-dits et les répétitions familiales afin de tenter ensemble de découvrir les compétences, les valeurs mais aussi les freins dont on a hérités. J’utilise également des outils et des médias systémiques (blason familial, jeux de l’oie, sculpture, etc.).
+Dans un suivi thérapeutique, j’accorde donc autant d’**attention au ressenti qu’à l’environnement** (passé et présent) **et à leur interaction** afin d’aider à **mieux comprendre le sens et les rouages relationnels qui se sont installés à un moment de la vie**. Je suis également très attentive à explorer les difficultés, les souffrances, les non-dits et les répétitions familiales afin de tenter ensemble de découvrir les compétences, les valeurs mais aussi les freins dont on a hérités.
 
 ## Comment prendre rendez-vous ?
 
-- :telephone_receiver: Par téléphone : [xxx](tel:+32xxxxxxxxx)
-- :envelope_with_arrow: Par email : [xxx](mailto:xxx)
+- :telephone_receiver: Par téléphone : [0477/96.88.84](tel:+32477968884)
+- :envelope_with_arrow: Par email : [info@psydelft.be](mailto:info@psydelft.be)
 
 ---
