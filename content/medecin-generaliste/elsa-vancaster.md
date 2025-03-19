@@ -76,7 +76,7 @@ Quel que soit votre âge, vous pouvez demander l’ouverture d’un dossier méd
 ## Informations pratiques
 
 :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
-                      Prendre rendez-vous</a>
+                      Prendre rendez-vous en ligne</a>
 <br>
 :envelope_with_arrow: <a href="mailto:docteurelsavancaster@hotmail.com">
                       docteurelsavancaster@hotmail.com</a>
