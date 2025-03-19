@@ -1,4 +1,5 @@
 ---
+title: "Marie-Chantal Delft"
 description: "Informations concernant Marie-Chantal Delft, psychologue au sein du CMP 1315"
 showTableOfContents: true
 ---
@@ -8,8 +9,6 @@ showTableOfContents: true
         Retour à la page d'accueil
     </a>
 </p>
-
-# Marie-Chantal Delft
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
