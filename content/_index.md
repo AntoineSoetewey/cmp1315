@@ -37,14 +37,17 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 des nouveau-nés grâce à ma formation en ONE.
             </p>
             <p>
-                :date: <a href="https://docteurelsavancaster.mikrono.com/" target="_blank">
-                      Prendre rendez-vous</a>  
-                <br>
                 :globe_with_meridians: <a href="/medecin-generaliste/elsa-vancaster/">
                       Voir la fiche du praticien</a>
                 <br>
+                :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
+                <br>
                 :envelope_with_arrow: <a href="mailto:docteurelsavancaster@hotmail.com">
                       docteurelsavancaster@hotmail.com</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32497185143">
+                      0497/18.51.43</a>
             </p>
         </div>
     </div>
@@ -61,11 +64,11 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 Diplomé en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois au sein du CMP 1315 le mardi et le jeudi.
             </p>
             <p>
-                :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank">
-                      Prendre rendez-vous</a>  
-                <br>
                 :globe_with_meridians: <a href="/osteopathe/arnaud-desclee/">
                       Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="https://www.osteopathearnauddesclee.com/" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
                 <br>
                 :envelope_with_arrow: <a href="mailto:arnaud.desclee@hotmail.com">
                       arnaud.desclee@hotmail.com</a>
@@ -75,7 +78,34 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
-    <!-- Praticien 3 : Virginie Vandyck -->
+    <!-- Praticien 3 : Marie-Chantal Delft -->
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+        <div style="flex-shrink: 0;">
+            <img src="/images/marie-chantal-delft/marie-chantal-delft.png" alt="Marie-Chantal Delft" 
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <div style="flex: 1; min-width: 250px;">
+            <h2 style="margin: 0; font-size: 1.7em; color: #333;">Marie-Chantal Delft</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychologue</h3>
+            <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
+                Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j’exerce depuis 2009 à mi-temps au Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi.
+            </p>
+            <p>
+                :globe_with_meridians: <a href="/psychologue/marie-chantal-delft/">
+                      Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="/psychologue/marie-chantal-delft/#comment-prendre-rendez-vous-">
+                      Prendre rendez-vous</a>  
+                <br>
+                :envelope_with_arrow: <a href="mailto:info@psydelft.be">
+                      info@psydelft.be</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32477968884">
+                      0477/96.88.84</a>
+            </p>
+        </div>
+    </div>
+    <!-- Praticien 4 : Virginie Vandyck -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/virginie-vandyck/virginie-vandyck.jpg" alt="Virginie Vandyck" 
@@ -90,11 +120,11 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 je vous accueille au CMP 1315 le 1er vendredi après-midi et le 3ème samedi matin de chaque mois.
             </p>
             <p>
-                :date: <a href="#" target="_blank">
-                      Prendre rendez-vous</a>  
-                <br>
                 :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/">
                       Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="#" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
                 <br>
                 :envelope_with_arrow: <a href="mailto:xxx">
                       xxx</a>
@@ -105,3 +135,5 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
         </div>
     </div>
 </div>
+
+---

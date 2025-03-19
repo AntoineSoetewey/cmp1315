@@ -22,6 +22,12 @@
   
     
       <url>
+            <loc>http://localhost:4321/psychologue/marie-chantal-delft/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:4321/sage-femme/virginie-vandyck/</loc>
           </url>
     
@@ -35,6 +41,12 @@
     
       <url>
             <loc>http://localhost:4321/osteopathe/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/psychologue/</loc>
           </url>
     
   
