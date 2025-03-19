@@ -4,8 +4,8 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
 
 <!-- LOGO PRINCIPAL -->
 <div style="display: flex; justify-content: center; align-items: center; margin: 0; padding: 0;">
-    <img src="/images/logo-CMP1315-cropped.png" alt="Centre médical de Piétrebais" 
-         style="width: 60%; max-width: 700px; height: auto; display: block;">
+    <img src="/images/CMP1315.png" alt="Centre médical de Piétrebais" 
+         style="width: 100%; max-width: 700px; height: auto; display: block;">
 </div>
 
 <!-- TEXTE D'INTRODUCTION -->
