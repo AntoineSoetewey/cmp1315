@@ -19,6 +19,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
 
 <br>
 <br>
+<br>
 
 <!-- LISTE DES PRATICIENS -->
 <div style="max-width: 700px; margin: auto;">
