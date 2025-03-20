@@ -23,7 +23,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
 
 <!-- LISTE DES PRATICIENS -->
 <div style="max-width: 700px; margin: auto;">
-    <!-- Praticien 1 : Elsa Vancaster -->
+    <!-- Praticien : Dr Elsa Vancaster -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/elsa-vancaster/docteur-elsa-vancaster.jpeg" alt="Dr Elsa Vancaster" 
@@ -52,7 +52,34 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
-    <!-- Praticien 2 : Arnaud Desclée -->
+    <!-- Praticien : Dr Elisa Sibille -->
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+        <div style="flex-shrink: 0;">
+            <img src="/images/elisa-sibille/dr-elisa-sibille.avif" alt="Dr Elisa Sibille" 
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <div style="flex: 1; min-width: 250px;">
+            <h2 style="margin: 0; font-size: 1.7em; color: #333;">Dr Elisa Sibille</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Médecin généraliste</h3>
+            <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
+                Durant le mois d'avril et de mai, je continue de consulter au CMP 1315 le lundi toute la journée et le jeudi après-midi.
+            </p>
+            <p>
+                :globe_with_meridians: <a href="/medecin-generaliste/elisa-sibille/">
+                      Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
+                <br>
+                :envelope_with_arrow: <a href="mailto:drelisasibille@gmail.com">
+                      drelisasibille@gmail.com</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32472676846">
+                      0472/67.68.46</a>
+            </p>
+        </div>
+    </div>
+    <!-- Praticien : Arnaud Desclée -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/arnaud-desclee/arnaud-desclee.avif" alt="Arnaud Desclée" 
@@ -79,7 +106,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
-    <!-- Praticien 3 : Marie-Chantal Delft -->
+    <!-- Praticien : Marie-Chantal Delft -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/marie-chantal-delft/marie-chantal-delft.png" alt="Marie-Chantal Delft" 
@@ -106,7 +133,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
-    <!-- Praticien 4 : Virginie Vandyck -->
+    <!-- Praticien : Virginie Vandyck -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/virginie-vandyck/virginie-vandyck.jpg" alt="Virginie Vandyck" 

@@ -16,6 +16,12 @@
   
     
       <url>
+            <loc>http://localhost:4321/medecin-generaliste/elisa-sibille/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:4321/medecin-generaliste/elsa-vancaster/</loc>
           </url>
     
