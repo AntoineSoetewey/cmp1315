@@ -114,15 +114,15 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
         </div>
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0; font-size: 1.7em; color: #333;">Marie-Chantal Delft</h2>
-            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychologue</h3>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychothérapeute</h3>
             <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
                 Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j’exerce depuis 2009 à mi-temps au Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi.
             </p>
             <p>
-                :globe_with_meridians: <a href="/psychologue/marie-chantal-delft/">
+                :globe_with_meridians: <a href="/psychotherapeute/marie-chantal-delft/">
                       Voir la fiche du praticien</a>
                 <br>
-                :date: <a href="/psychologue/marie-chantal-delft/#comment-prendre-rendez-vous-">
+                :date: <a href="/psychotherapeute/marie-chantal-delft/#comment-prendre-rendez-vous-">
                       Prendre rendez-vous</a>  
                 <br>
                 :envelope_with_arrow: <a href="mailto:info@psydelft.be">

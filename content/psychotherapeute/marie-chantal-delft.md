@@ -1,6 +1,6 @@
 ---
 title: "Marie-Chantal Delft"
-description: "Informations concernant Marie-Chantal Delft, psychologue au sein du CMP 1315"
+description: "Informations concernant Marie-Chantal Delft, psychothérapeute au sein du CMP 1315"
 showTableOfContents: true
 ---
 
@@ -17,7 +17,7 @@ showTableOfContents: true
         </div>
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
-            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychologue</h3>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychothérapeute</h3>
             Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j’exerce depuis 2009 à mi-temps au Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi.
         </div>
     </div>
