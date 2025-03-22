@@ -151,14 +151,14 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 :globe_with_meridians: <a href="/sage-femme/virginie-vandyck/">
                       Voir la fiche du praticien</a>
                 <br>
-                :date: <a href="#" target="_blank">
+                :date: <a href="https://rosa.be/fr/hp/virginie-vandyck/" target="_blank">
                       Prendre rendez-vous en ligne</a>  
                 <br>
-                :envelope_with_arrow: <a href="mailto:xxx">
-                      xxx</a>
+                :envelope_with_arrow: <a href="mailto:virgi.vandyck@gmail.com">
+                      virgi.vandyck@gmail.com</a>
                 <br>
-                :telephone_receiver: <a href="tel:+32xxx">
-                      xxx</a>
+                :telephone_receiver: <a href="tel:+32496131375">
+                      0496/13.13.75</a>
             </p>
         </div>
     </div>

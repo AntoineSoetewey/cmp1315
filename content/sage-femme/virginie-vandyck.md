@@ -89,7 +89,7 @@ Durée : +/- 1h
 
 ## Comment prendre rendez-vous ?
 
-- :date: Via mon [agenda en ligne](/)
-- :telephone_receiver: Par téléphone : [xxx](tel:+32xxxxxxxxx)
+- :date: Via mon [agenda en ligne](https://rosa.be/fr/hp/virginie-vandyck/)
+- :telephone_receiver: Par téléphone : [0496/13.13.75](tel:+32496131375)
 
 ---
