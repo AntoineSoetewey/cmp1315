@@ -87,6 +87,8 @@ Durée : +/- 1h
 
 ![Tarifs](/images/virginie-vandyck/tarif-consultations.png)
 
+Notez que j'accepte les paiements en espèces ou par QR code.
+
 ## Comment prendre rendez-vous ?
 
 - :date: Via mon [agenda en ligne](https://rosa.be/fr/hp/virginie-vandyck/)
