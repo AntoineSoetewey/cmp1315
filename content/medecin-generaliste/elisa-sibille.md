@@ -26,7 +26,7 @@ showTableOfContents: true
     
 ## Consultations
 
-Durant les mois d'avril et mai, je continue de consulter au CMP 1315 le lundi toute la journée et le jeudi après-midi.
+Durant les mois d'avril et mai, je continue de consulter au CMP 1315 le lundi matin et le jeudi après-midi.
 
 ## Informations pratiques
 
@@ -35,8 +35,5 @@ Durant les mois d'avril et mai, je continue de consulter au CMP 1315 le lundi to
 <br>
 :envelope_with_arrow: <a href="mailto:drelisasibille@gmail.com">
                       drelisasibille@gmail.com</a>
-<br>
-:telephone_receiver: <a href="tel:+32472676846">
-                      0472/67.68.46</a>
                       
 ---

@@ -62,7 +62,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             <h2 style="margin: 0; font-size: 1.7em; color: #333;">Dr Elisa Sibille</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Médecin généraliste</h3>
             <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
-                Durant le mois d'avril et de mai, je continue de consulter au CMP 1315 le lundi toute la journée et le jeudi après-midi.
+                Durant le mois d'avril et de mai, je continue de consulter au CMP 1315 le lundi matin et le jeudi après-midi.
             </p>
             <p>
                 :globe_with_meridians: <a href="/medecin-generaliste/elisa-sibille/">
@@ -73,9 +73,6 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                 <br>
                 :envelope_with_arrow: <a href="mailto:drelisasibille@gmail.com">
                       drelisasibille@gmail.com</a>
-                <br>
-                :telephone_receiver: <a href="tel:+32472676846">
-                      0472/67.68.46</a>
             </p>
         </div>
     </div>
