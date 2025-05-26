@@ -53,7 +53,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
         </div>
     </div>
     <!-- Praticien : Dr Elisa Sibille -->
-    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+    <!-- <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/elisa-sibille/dr-elisa-sibille.avif" alt="Dr Elisa Sibille" 
                  style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
@@ -75,7 +75,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
                       drelisasibille@gmail.com</a>
             </p>
         </div>
-    </div>
+    </div>-->
     <!-- Praticien : Arnaud Desclée -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
