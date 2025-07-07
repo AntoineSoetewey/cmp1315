@@ -22,6 +22,12 @@
   
     
       <url>
+            <loc>http://localhost:4321/hypnotherapeute-sexologue/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://localhost:4321/psychotherapeute/marie-chantal-delft/</loc>
           </url>
     
@@ -29,6 +35,12 @@
     
       <url>
             <loc>http://localhost:4321/medecin-generaliste/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://localhost:4321/hypnotherapeute-sexologue/oceane-vanderberghe/</loc>
           </url>
     
   
