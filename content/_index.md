@@ -159,6 +159,30 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
+    <!-- Praticien : Océane Vanderberghe -->
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+        <div style="flex-shrink: 0;">
+            <img src="/images/oceane-vanderberghe/oceane-vanderberghe.jpg" alt="Océane Vanderberghe" 
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <div style="flex: 1; min-width: 250px;">
+            <h2 style="margin: 0; font-size: 1.7em; color: #333;">Océane Vanderberghe</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Hypnothérapeute et Sexologue</h3>
+            <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
+                Diplômée d’un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d’un Master de spécialisation en sexologie clinique à l’ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l’Académie Michel Villacorta. Je vous reçois au sein du CMP 1315 les jeudis de 17h à 21h.
+            </p>
+            <p>
+                :globe_with_meridians: <a href="/hypnotherapeute-sexologue/oceane-vanderberghe/">
+                      Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="https://calendly.com/osezbyoce/30min" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
+                <br>
+                :envelope_with_arrow: <a href="mailto:osezbyoce@gmail.com">
+                      osezbyoce@gmail.com</a>
+            </p>
+        </div>
+    </div>
 </div>
 
 ---
