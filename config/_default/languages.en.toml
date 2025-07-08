@@ -1,24 +1,24 @@
-languageCode = "fr"
-languageName = "French"
+languageCode = "en"
+languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "CMP 1315"
+title = "Congo"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Site web du CMP 1315 - Centre médical de Piétrebais"
+  # description = "My awesome website"
 
 [params.author]
-  name = "CMP 1315"
-  image = "images/CMP1315.png"
+  # name = "Your name here"
+  # image = "img/author.jpg"
   # headline = "I'm only human"
   # bio = "A little bit about you"
-  links = [
-    { email = "mailto:docteurelsavancaster@hotmail.com" },
+  # links = [
+  #   { email = "mailto:hello@your_domain.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -64,4 +64,4 @@ title = "CMP 1315"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  ]
+  # ]
