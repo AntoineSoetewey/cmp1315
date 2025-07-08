@@ -169,7 +169,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             <h2 style="margin: 0; font-size: 1.7em; color: #333;">Océane Vanderberghe</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Hypnothérapeute et Sexologue</h3>
             <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
-                Diplômée d’un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d’un Master de spécialisation en sexologie clinique à l’ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l’Académie Michel Villacorta.
+                Diplômée d’un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d’un Master de spécialisation en sexologie clinique à l’ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l’Académie Michel Villacorta. Je vous reçois au sein du CMP 1315 les jeudis de 17h à 21h.
             </p>
             <p>
                 :globe_with_meridians: <a href="/hypnotherapeute-sexologue/oceane-vanderberghe/">

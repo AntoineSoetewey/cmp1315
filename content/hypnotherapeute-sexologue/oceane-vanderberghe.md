@@ -19,7 +19,7 @@ showTableOfContents: true
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Hypnothérapeute et Sexologue</h3>
             <p>
-                Diplômée d’un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d’un Master de spécialisation en sexologie clinique à l’ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l’Académie Michel Villacorta.
+                Diplômée d’un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d’un Master de spécialisation en sexologie clinique à l’ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l’Académie Michel Villacorta. Je vous reçois au sein du CMP 1315 les jeudis de 17h à 21h.
             </p>
         </div>
     </div>
