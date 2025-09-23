@@ -54,7 +54,7 @@ Pour toute demande de ce type, veuillez prendre un rendez-vous ***"Ordonnances/R
 
 ## Résultats d'examens
 
-Je vous invite à prendre un rendez-vous ***"Ordonnances/Résultats"*** via l'agenda en ligne pour discuter de vos résultats de prise de sans, imagerie médicale, etc.
+Je vous invite à prendre un rendez-vous ***"Ordonnances/Résultats"*** via l'agenda en ligne pour discuter de vos résultats de prise de sang, imagerie médicale, etc.
 
 ## Gardes
 
