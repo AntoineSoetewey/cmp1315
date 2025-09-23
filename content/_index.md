@@ -131,6 +131,33 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
+    <!-- Praticien : Natalie Dos Santos -->
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+        <div style="flex-shrink: 0;">
+            <img src="/images/natalie-dos-santos/natalie-dos-santos.jpg" alt="Natalie Dos Santos" 
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <div style="flex: 1; min-width: 250px;">
+            <h2 style="margin: 0; font-size: 1.7em; color: #333;">Natalie Dos Santos</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Diététicienne</h3>
+            <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
+                Diplômée en tant que diététicienne à la Haute École de la Province de Liège, je vous reçois en consultation au sein du CMP 1315 le lundi matin.
+            </p>
+            <p>
+                :globe_with_meridians: <a href="/dieteticienne/natalie-dos-santos/">
+                      Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="/dieteticienne/natalie-dos-santos/#comment-prendre-rendez-vous-">
+                      Prendre rendez-vous</a>
+                <br>
+                :envelope_with_arrow: <a href="mailto:natalie@healthytude.be">
+                      natalie@healthytude.be</a>
+                <br>
+                :telephone_receiver: <a href="tel:+32488601030">
+                      0488/60.10.30</a>
+            </p>
+        </div>
+    </div>
     <!-- Praticien : Marie-Chantal Delft -->
     <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
