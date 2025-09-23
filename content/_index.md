@@ -52,6 +52,34 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
+    <!-- Praticien : Dr Oriane Grandjean -->
+    <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
+        <div style="flex-shrink: 0;">
+            <img src="/images/oriane-grandjean/docteur-oriane-grandjean.jpeg" alt="Dr Oriane Grandjean" 
+                 style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        </div>
+        <div style="flex: 1; min-width: 250px;">
+            <h2 style="margin: 0; font-size: 1.7em; color: #333;">Dr Oriane Grandjean</h2>
+            <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Médecin généraliste</h3>
+            <p style="font-size: 0.8em; color: #555; line-height: 1.2;">
+                Je suis assistante en médecine générale, en formation auprès du Dr Elsa Vancaster.
+                Je suis disponible tous les jours de la semaine pour vous accompagner avec soin durant vos consultations au cabinet.
+            </p>
+            <p>
+                :globe_with_meridians: <a href="/medecin-generaliste/oriane-grandjean/">
+                      Voir la fiche du praticien</a>
+                <br>
+                :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
+                      Prendre rendez-vous en ligne</a>  
+                <br>
+                :envelope_with_arrow: <a href="mailto:drorianegrandjean@gmail.com">
+                      drorianegrandjean@gmail.com</a>
+                <!-- <br>
+                :telephone_receiver: <a href="tel:+32497185143">
+                      0497/18.51.43</a> -->
+            </p>
+        </div>
+    </div>
     <!-- Praticien : Dr Elisa Sibille -->
     <!-- <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">

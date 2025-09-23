@@ -1,6 +1,6 @@
 ---
-title: "Dr Elsa Vancaster"
-description: "Informations concernant le docteur Elsa Vancaster, médecin généraliste au sein du CMP 1315"
+title: "Dr Oriane Grandjean"
+description: "Informations concernant le docteur Oriane Grandjean, médecin généraliste au sein du CMP 1315"
 showTableOfContents: true
 ---
 
@@ -12,25 +12,28 @@ showTableOfContents: true
 
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
-            <img src="/images/elsa-vancaster/docteur-elsa-vancaster.jpeg" alt="Docteur Elsa Vancaster" 
+            <img src="/images/oriane-grandjean/docteur-oriane-grandjean.jpeg" alt="Docteur Oriane Grandjean" 
                  style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover;">
         </div>
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Médecin généraliste</h3>
             <p>
-                Diplômée en médecine générale de l'Université catholique de Louvain en 2017 ainsi qu'en médecine préventive du nourrisson et du jeune enfant en 2018, je vous reçois au sein de mon centre médical.
+                Diplômée en médecine de l’Université catholique de Louvain, je suis assistante en médecine générale, en formation auprès du Dr Elsa Vancaster.
             </p>
         </div>
     </div>
     
-{{< alert >}}
-**Pour information, je n'accueille plus de nouveaux patients dans le but de maintenir la qualité des soins.**
-{{< /alert >}}
+Dans le cadre de cette année au cabinet, je participe activement à la prise en charge globale des patients, de tous âges et dans toutes les étapes de la vie.
+J'accorde une grande importance à l’écoute, à la bienveillance et à la clarté dans la relation soignant-patient. 
+<br>Cette année me permettra de développer mes compétences cliniques dans un cadre humain et professionnel.
+<br>Vous me verrez en consultation seule ou en binôme avec le Dr Vancaster, selon les situations. 
+<br>Je suis là pour vous accompagner, vous informer et assurer une continuité dans vos soins.
+Merci d’avance pour votre confiance !
     
 ## Consultations
 
-Les consultations ont lieu au sein du centre médical du <span style="color: red; font-weight: bold;">lundi au vendredi de 8h à 18h, sauf le jeudi à partir de 12h, où je suis indisponible</span>. À ce moment-là, ma consœur le Dr Oriane Grandjean est disponible.
+Les consultations ont lieu au sein du centre médical du <span style="color: red; font-weight: bold;">lundi au vendredi de 8h à 18h, sauf le mardi matin où je suis indisponible</span>.
 
 Différents types de consultation peuvent être réservés via l'agenda en ligne :
 
@@ -44,7 +47,7 @@ Différents types de consultation peuvent être réservés via l'agenda en ligne
 
 J’effectue des visites à domicile uniquement pour les patients dont l’état de santé ne permet pas de se rendre jusqu’au cabinet.
 
-Pour une demande de visite, veuillez me contacter <span style="color: red; font-weight: bold;">par téléphone avant 8h30</span>.
+Pour une demande de visite, veuillez me contacter <span style="color: red; font-weight: bold;">par téléphone.</span>
 
 ## Ordonnances
 
@@ -66,22 +69,15 @@ Appeler le 1733
 {{< /button >}}
 </center>
 
-## Dossier médical global
-
-Quel que soit votre âge, vous pouvez demander l’ouverture d’un dossier médical global (DMG) auprès de votre médecin généraliste. Le dossier médical global améliore la qualité des soins et vous donne droit aux avantages suivants :
-
-- une réduction de 30% accordée par votre mutualité sur la partie qui est financièrement à votre charge
-- la centralisation de vos données médicales
-
 ## Informations pratiques
 
 :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
                       Prendre rendez-vous en ligne</a>
 <br>
-:envelope_with_arrow: <a href="mailto:docteurelsavancaster@hotmail.com">
-                      docteurelsavancaster@hotmail.com</a>
-<br>
+:envelope_with_arrow: <a href="mailto:drorianegrandjean@gmail.com">
+                      drorianegrandjean@gmail.com</a>
+<!-- <br>
 :telephone_receiver: <a href="tel:+32497185143">
-                      0497/18.51.43</a>
+                      0497/18.51.43</a> -->
                       
 ---
