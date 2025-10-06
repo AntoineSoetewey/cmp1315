@@ -76,8 +76,8 @@ Appeler le 1733
 <br>
 :envelope_with_arrow: <a href="mailto:drorianegrandjean@gmail.com">
                       drorianegrandjean@gmail.com</a>
-<!-- <br>
-:telephone_receiver: <a href="tel:+32497185143">
-                      0497/18.51.43</a> -->
+<br>
+:telephone_receiver: <a href="tel:+32498667029">
+                      0498/66.70.29</a>
                       
 ---
