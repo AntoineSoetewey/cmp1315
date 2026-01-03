@@ -80,7 +80,7 @@ description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
             </p>
         </div>
     </div>
-    <!-- Praticien : Dr Elisa Sibille -->
+    <!-- Praticien : Dr Elisa Sibille  -->
     <!-- <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
         <div style="flex-shrink: 0;">
             <img src="/images/elisa-sibille/dr-elisa-sibille.avif" alt="Dr Elisa Sibille" 
