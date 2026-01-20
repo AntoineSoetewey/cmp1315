@@ -1,0 +1,394 @@
+---
+description: "Site internet du CMP 1315, le Centre médical de Piétrebais."
+---
+
+<style>
+  .cmp-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .cmp-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .cmp-logo {
+    max-width: 600px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto 30px;
+    display: block;
+  }
+
+  .cmp-intro {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .cmp-address {
+    font-size: 1.05em;
+    color: rgb(37, 99, 235);
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.3s, background-color 0.3s;
+    padding: 4px 0;
+    border-radius: 4px;
+  }
+
+  .cmp-address:hover {
+    background-color: rgb(37, 99, 235);
+    color: white;
+  }
+
+  .cmp-practitioners-title {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+    margin: 50px 0 40px;
+    font-weight: 700;
+  }
+
+  .cmp-cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  .cmp-card {
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    padding: 30px;
+    transition: transform 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .cmp-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+  }
+
+  .cmp-card-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 4px solid rgb(219, 234, 254);
+  }
+
+  .cmp-card-name {
+    font-size: 1.5em;
+    color: #333;
+    margin: 0 0 8px 0;
+    font-weight: 700;
+  }
+
+  .cmp-card-role {
+    font-size: 1.1em;
+    color: rgb(37, 99, 235);
+    margin: 0 0 15px 0;
+    font-weight: 600;
+  }
+
+  .cmp-card-description {
+    font-size: 0.95em;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+
+  .cmp-card-links {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: auto;
+  }
+
+  .cmp-card-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 0.9em;
+    transition: background-color 0.3s, color 0.3s, transform 0.2s;
+  }
+
+  .cmp-card-link:hover {
+    transform: scale(1.02);
+  }
+
+  .cmp-link-primary {
+    background-color: rgb(37, 99, 235);
+    color: white;
+    font-weight: 600;
+  }
+
+  .cmp-link-primary:hover {
+    background-color: rgb(29, 78, 216);
+    color: white;
+  }
+
+  .cmp-link-secondary {
+    background-color: rgb(239, 246, 255);
+    color: rgb(37, 99, 235);
+    border: 1px solid rgb(191, 219, 254);
+  }
+
+  .cmp-link-secondary:hover {
+    background-color: rgb(191, 219, 254);
+    color: rgb(29, 78, 216);
+    border: 1px solid rgb(147, 197, 253);
+  }
+
+  .cmp-contact-info {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid rgb(219, 234, 254);
+    width: 100%;
+  }
+
+  .cmp-contact-item {
+    font-size: 0.85em;
+    color: #666;
+    text-decoration: none;
+    transition: color 0.3s, background-color 0.3s;
+    padding: 4px 8px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+
+  .cmp-contact-item:hover {
+    background-color: rgb(219, 234, 254);
+    color: rgb(29, 78, 216);
+  }
+
+  @media (max-width: 768px) {
+    .cmp-cards-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cmp-practitioners-title {
+      font-size: 1.6em;
+    }
+  }
+</style>
+
+<div class="cmp-container">
+  <div class="cmp-header">
+    <img src="/images/CMP1315.png" alt="Centre médical de Piétrebais" class="cmp-logo">
+    <br>
+    <p class="cmp-intro">Bienvenue sur le site du Centre Médical de Piétrebais.<br>Notre équipe de praticiens vous accueille au <a href="https://g.page/docteur-elsa-vancaster?share" target="_blank" class="cmp-address">6 Rue Fond du Village</a>.</p>
+  </div>
+
+  <h2 class="cmp-practitioners-title">Notre équipe</h2>
+
+  <div class="cmp-cards-grid">
+    <!-- Praticien : Dr Elsa Vancaster -->
+    <div class="cmp-card">
+      <img src="/images/elsa-vancaster/docteur-elsa-vancaster.jpeg" alt="Dr Elsa Vancaster" class="cmp-card-image">
+      <h2 class="cmp-card-name">Dr Elsa Vancaster</h2>
+      <h3 class="cmp-card-role">Médecin généraliste</h3>
+      <p class="cmp-card-description">
+        J'assure le suivi médical des patients, de la naissance jusqu'à la fin de vie,
+        avec une approche humaine et bienveillante. Je propose également un accompagnement spécifique
+        des nouveau-nés grâce à ma formation en ONE.
+      </p>
+      <div class="cmp-card-links">
+        <a href="https://cmp1315.mikrono.com/" target="_blank" class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous en ligne
+        </a>
+        <a href="/medecin-generaliste/elsa-vancaster/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:docteurelsavancaster@hotmail.com" class="cmp-contact-item">
+          :envelope_with_arrow: docteurelsavancaster@hotmail.com
+        </a>
+        <a href="tel:+32497185143" class="cmp-contact-item">
+          :telephone_receiver: 0497/18.51.43
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Dr Oriane Grandjean -->
+    <div class="cmp-card">
+      <img src="/images/oriane-grandjean/docteur-oriane-grandjean.jpeg" alt="Dr Oriane Grandjean"
+        class="cmp-card-image">
+      <h2 class="cmp-card-name">Dr Oriane Grandjean</h2>
+      <h3 class="cmp-card-role">Médecin généraliste</h3>
+      <p class="cmp-card-description">
+        Je suis assistante en médecine générale, en formation auprès du Dr Elsa Vancaster.
+        Je suis disponible tous les jours de la semaine pour vous accompagner avec soin durant vos consultations au
+        cabinet.
+      </p>
+      <div class="cmp-card-links">
+        <a href="https://cmp1315.mikrono.com/" target="_blank" class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous en ligne
+        </a>
+        <a href="/medecin-generaliste/oriane-grandjean/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:drorianegrandjean@gmail.com" class="cmp-contact-item">
+          :envelope_with_arrow: drorianegrandjean@gmail.com
+        </a>
+        <a href="tel:+32498667029" class="cmp-contact-item">
+          :telephone_receiver: 0498/66.70.29
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Arnaud Desclée -->
+    <div class="cmp-card">
+      <img src="/images/arnaud-desclee/arnaud-desclee.avif" alt="Arnaud Desclée" class="cmp-card-image">
+      <h2 class="cmp-card-name">Arnaud Desclée</h2>
+      <h3 class="cmp-card-role">Ostéopathe</h3>
+      <p class="cmp-card-description">
+        Diplomé en ostéopathie du Collège Belge d'Ostéopathie, je vous reçois au sein du CMP 1315 le mardi et le jeudi.
+      </p>
+      <div class="cmp-card-links">
+        <a href="https://www.osteopathearnauddesclee.com/" target="_blank" class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous en ligne
+        </a>
+        <a href="/osteopathe/arnaud-desclee/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:arnaud.desclee@hotmail.com" class="cmp-contact-item">
+          :envelope_with_arrow: arnaud.desclee@hotmail.com
+        </a>
+        <a href="tel:+32476355947" class="cmp-contact-item">
+          :telephone_receiver: 0476/35.59.47
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Natalie Dos Santos -->
+    <div class="cmp-card">
+      <img src="/images/natalie-dos-santos/natalie-dos-santos.jpg" alt="Natalie Dos Santos" class="cmp-card-image">
+      <h2 class="cmp-card-name">Natalie Dos Santos</h2>
+      <h3 class="cmp-card-role">Diététicienne</h3>
+      <p class="cmp-card-description">
+        Diplômée en tant que diététicienne à la Haute École de la Province de Liège, je vous reçois en consultation au
+        sein du CMP 1315 le lundi matin.
+      </p>
+      <div class="cmp-card-links">
+        <a href="/dieteticienne/natalie-dos-santos/#comment-prendre-rendez-vous-"
+          class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous
+        </a>
+        <a href="/dieteticienne/natalie-dos-santos/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:natalie@healthytude.be" class="cmp-contact-item">
+          :envelope_with_arrow: natalie@healthytude.be
+        </a>
+        <a href="tel:+32488601030" class="cmp-contact-item">
+          :telephone_receiver: 0488/60.10.30
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Marie-Chantal Delft -->
+    <div class="cmp-card">
+      <img src="/images/marie-chantal-delft/marie-chantal-delft.png" alt="Marie-Chantal Delft" class="cmp-card-image">
+      <h2 class="cmp-card-name">Marie-Chantal Delft</h2>
+      <h3 class="cmp-card-role">Psychothérapeute</h3>
+      <p class="cmp-card-description">
+        Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j'exerce depuis 2009 à mi-temps au
+        Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi.
+      </p>
+      <div class="cmp-card-links">
+        <a href="/psychotherapeute/marie-chantal-delft/#comment-prendre-rendez-vous-"
+          class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous
+        </a>
+        <a href="/psychotherapeute/marie-chantal-delft/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:info@psydelft.be" class="cmp-contact-item">
+          :envelope_with_arrow: info@psydelft.be
+        </a>
+        <a href="tel:+32477968884" class="cmp-contact-item">
+          :telephone_receiver: 0477/96.88.84
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Virginie Vandyck -->
+    <div class="cmp-card">
+      <img src="/images/virginie-vandyck/virginie-vandyck.jpg" alt="Virginie Vandyck" class="cmp-card-image">
+      <h2 class="cmp-card-name">Virginie Vandyck</h2>
+      <h3 class="cmp-card-role">Sage-femme - réflexologie</h3>
+      <p class="cmp-card-description">
+        Maman de trois enfants, je suis sage-femme depuis 1999.
+        Forte de 9 années d'expérience aux Cliniques Universitaires Saint-Luc à Bruxelles,
+        je vous accueille au CMP 1315 le 1er vendredi après-midi et le 3ème samedi matin de chaque mois.
+      </p>
+      <div class="cmp-card-links">
+        <a href="https://rosa.be/fr/hp/virginie-vandyck/" target="_blank" class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous en ligne
+        </a>
+        <a href="/sage-femme/virginie-vandyck/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:virgi.vandyck@gmail.com" class="cmp-contact-item">
+          :envelope_with_arrow: virgi.vandyck@gmail.com
+        </a>
+        <a href="tel:+32496131375" class="cmp-contact-item">
+          :telephone_receiver: 0496/13.13.75
+        </a>
+      </div>
+    </div>
+
+    <!-- Praticien : Océane Vanderberghe -->
+    <!-- <div class="cmp-card">
+      <img src="/images/oceane-vanderberghe/oceane-vanderberghe.jpg" alt="Océane Vanderberghe" class="cmp-card-image">
+      <h2 class="cmp-card-name">Océane Vanderberghe</h2>
+      <h3 class="cmp-card-role">Hypnothérapeute et Sexologue</h3>
+      <p class="cmp-card-description">
+        Diplômée d'un Bachelier en psychologie de la Haute école Marie Haps en 2020 et d'un Master de spécialisation en sexologie clinique à l'ULB en 2025. Formation en PNL (thérapie brèves) et hypnose fondamentale à l'Académie Michel Villacorta. Je vous reçois au sein du CMP 1315 les jeudis de 17h à 21h.
+      </p>
+      <div class="cmp-card-links">
+        <a href="https://calendly.com/osezbyoce/30min" target="_blank" class="cmp-card-link cmp-link-primary">
+          :date: Prendre rendez-vous en ligne
+        </a>
+        <a href="/hypnotherapeute-sexologue/oceane-vanderberghe/" class="cmp-card-link cmp-link-secondary">
+          :globe_with_meridians: Voir la fiche du praticien
+        </a>
+      </div>
+      <div class="cmp-contact-info">
+        <a href="mailto:osezbyoce@gmail.com" class="cmp-contact-item">
+          :envelope_with_arrow: osezbyoce@gmail.com
+        </a>
+      </div>
+    </div> -->
+  </div>
+</div>
+<br>
