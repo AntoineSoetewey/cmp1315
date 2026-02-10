@@ -1,7 +1,8 @@
 ---
 title: "Marie-Chantal Delft"
 description: "Informations concernant Marie-Chantal Delft, psychothérapeute au sein du CMP 1315"
-showTableOfContents: true
+showTableOfContents: false
+layout: "simple"
 ---
 
 <p style="font-size: 0.9em; margin: 0 0 30px 0">

@@ -1,7 +1,8 @@
 ---
 title: "Natalie Dos Santos"
 description: "Informations concernant Natalie Dos Santos, diététicienne au sein du CMP 1315"
-showTableOfContents: true
+showTableOfContents: false
+layout: "simple"
 ---
 
 <p style="font-size: 0.9em; margin: 0 0 30px 0">

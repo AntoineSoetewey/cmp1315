@@ -1,7 +1,8 @@
 ---
 title: "Océane Vanderberghe"
 description: "Informations concernant Océane Vanderberghe, hypnothérapeute et sexologue au sein du CMP 1315"
-showTableOfContents: true
+showTableOfContents: false
+layout: "simple"
 ---
 
 <p style="font-size: 0.9em; margin: 0 0 30px 0">

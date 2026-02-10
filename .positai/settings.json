@@ -1,0 +1,20 @@
+{
+  "permission": {
+    "edit": {
+      "content/sage-femme/*": "allow"
+    },
+    "bash": {
+      "cat -A /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md | sed -n '22,29p'": "allow",
+      "sed -n '22,29p' /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md | cat -A": "allow",
+      "sed -n '22,29p' /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md | od -c | head -20": "allow",
+      "sed -n '22,28p' /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md": "allow",
+      "hexdump -C /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md | sed -n '110,160p'": "allow",
+      "hexdump -C /Users/antoinesoetewey/Documents/GitHub/cmp1315/content/sage-femme/virginie-vandyck.md | grep -A5 -B5 \"4d 61 72 69\" | head -20": "allow",
+      "cd /Users/antoinesoetewey/Documents/GitHub/cmp1315 && cp content/sage-femme/virginie-vandyck.md content/sage-femme/virginie-vandyck.md.backup": "allow",
+      "cd /Users/antoinesoetewey/Documents/GitHub/cmp1315 && sed -i '' '22,28c\\\n            Mariée et mère de 3 enfants, je suis diplômée sage-femme à l'ISEI depuis 1999. J'ai travaillé 9 ans aux Cliniques Universitaires Saint-Luc et j'anime des ateliers au sein des consultations ONE.\n' content/sage-femme/virginie-vandyck.md": "allow",
+      "cd /Users/antoinesoetewey/Documents/GitHub/cmp1315 && python3 << 'EOF'\nwith open('content/sage-femme/virginie-vandyck.md', 'r', encoding='utf-8') as f:\n    content = f.read()\n\n# The old text spans lines 22-28\nold_text = \"\"\"Mariée, mère de 3 enfants\n            <br>\n            Diplômée sage-femme à l'ISEI depuis 1999\n            <br>\n            J'ai travaillé 9 ans aux Cliniques Universitaires Saint-Luc\n            <br>\n            J'anime des ateliers au sein des consultations ONE\"\"\"\n\nnew_text = \"\"\"Mariée et mère de 3 enfants, je suis diplômée sage-femme à l'ISEI depuis 1999. J'ai travaillé 9 ans aux Cliniques Universitaires Saint-Luc et j'anime des ateliers au sein des consultations ONE.\"\"\"\n\ncontent = content.replace(old_text, new_text)\n\nwith open('content/sage-femme/virginie-vandyck.md', 'w', encoding='utf-8') as f:\n    f.write(content)\n\nprint(\"File updated successfully!\")\nEOF": "allow",
+      "cd /Users/antoinesoetewey/Documents/GitHub/cmp1315 && python3 << 'EOF'\nwith open('content/sage-femme/virginie-vandyck.md', 'r', encoding='utf-8') as f:\n    lines = f.readlines()\n\n# Print lines 22-28 (0-indexed, so 21-27)\nfor i, line in enumerate(lines[21:28], start=22):\n    print(f\"Line {i}: {repr(line)}\")\nEOF": "allow",
+      "python3 /tmp/fix_virginie.py": "allow"
+    }
+  }
+}

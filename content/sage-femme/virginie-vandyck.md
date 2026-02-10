@@ -1,7 +1,8 @@
 ---
 title: "Virginie Vandyck"
 description: "Informations concernant Virginie Vandyck, sage-femme - réflexologie au sein du CMP 1315"
-showTableOfContents: true
+showTableOfContents: false
+layout: "simple"
 ---
 
 <p style="font-size: 0.9em; margin: 0 0 30px 0">
@@ -18,13 +19,7 @@ showTableOfContents: true
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Sage-femme - réflexologie</h3>
-            Mariée, mère de 3 enfants
-            <br>
-            Diplômée sage-femme à l’ISEI depuis 1999
-            <br>
-            J’ai travaillé 9 ans aux Cliniques Universitaires Saint-Luc
-            <br>
-            J’anime des ateliers au sein des consultations ONE
+            Mariée et mère de 3 enfants, je suis diplômée sage-femme à l'ISEI depuis 1999. J'ai travaillé 9 ans aux Cliniques Universitaires Saint-Luc et j'anime des ateliers au sein des consultations ONE.
         </div>
     </div>
     
