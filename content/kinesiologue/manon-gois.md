@@ -105,11 +105,11 @@ Mes accompagnements s'appuient sur des formations suivies auprès de plusieurs i
 
 ## Comment prendre rendez-vous ?
 
-Je vous reçois au CMP 1315 le **mercredi après-midi**.
+Je vous reçois au CMP 1315 le **mercredi après-midi**. Vous pouvez prendre rendez-vous :
 
 - :date: Via mon [agenda en ligne](https://manon-gois.com/prendre-rendez-vous/)
 - :telephone_receiver: Par téléphone : [0471/84.69.79](tel:+32471846979)
-- :envelope_with_arrow: <a href="mailto:contact@manon-gois.com">contact@manon-gois.com</a>
+- :envelope_with_arrow: Par e-mail : <a href="mailto:contact@manon-gois.com">contact@manon-gois.com</a>
 
 :information_source: Toute annulation ou report doit être effectué(e) au minimum 48 heures à l'avance.
 
