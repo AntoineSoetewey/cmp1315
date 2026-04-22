@@ -47,7 +47,7 @@ Les consultations se font uniquement sur rendez-vous.
 :date: Via mon <a href="https://calendly.com/osezbyoce/30min" target="_blank">
                       agenda en ligne</a>
 <br>
-:envelope_with_arrow: Par email : <a href="mailto:osezbyoce@gmail.com">
+:envelope_with_arrow: Par e-mail : <a href="mailto:osezbyoce@gmail.com">
                       osezbyoce@gmail.com</a>
                       
 ---

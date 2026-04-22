@@ -58,6 +58,6 @@ Dans un suivi thérapeutique, j’accorde donc autant d’**attention au ressent
 ## Comment prendre rendez-vous ?
 
 - :telephone_receiver: Par téléphone : [0477/96.88.84](tel:+32477968884)
-- :envelope_with_arrow: Par email : [info@psydelft.be](mailto:info@psydelft.be)
+- :envelope_with_arrow: Par e-mail : [info@psydelft.be](mailto:info@psydelft.be)
 
 ---

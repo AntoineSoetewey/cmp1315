@@ -60,6 +60,6 @@ Rendez-vous suivants (suivi - 30 min) : 40€
 ## Comment prendre rendez-vous ?
 
 - :telephone_receiver: Par téléphone : [0488/60.10.30](tel:+32488601030)
-- :envelope_with_arrow: Par email : [natalie@healthytude.be](mailto:natalie@healthytude.be)
+- :envelope_with_arrow: Par e-mail : [natalie@healthytude.be](mailto:natalie@healthytude.be)
 
 ---
