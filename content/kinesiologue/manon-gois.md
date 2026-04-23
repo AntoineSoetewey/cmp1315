@@ -43,7 +43,22 @@ Mon accompagnement s'adresse aux enfants comme aux adultes et peut aider à :
 
 ## Mes accompagnements
 
-Je propose plusieurs types d'accompagnements, adaptés à vos besoins.
+Mon accompagnement s’adresse aux enfants comme aux adultes. Ensemble, nous pouvons travailler sur :
+
+- L’atteinte d’un objectif quel qu’il soit 
+- Les difficultés d’apprentissage 
+- Le sommeil perturbé
+- Les troubles de la propreté 
+- Les addictions
+- Les phobies et angoisses 
+- Le stress et le surmenage 
+- Le poids 
+- Les douleurs physiques
+- La dépression
+- Le deuil (séparation, divorce, décès, etc.) 
+- La périnatalité (parcours PMA, difficulté à tomber enceinte, fausses couches, deuil périnatale, communication dans le couple, etc.)
+
+Pour ce faire, je propose plusieurs types d'accompagnements, adaptés à vos besoins.
 
 ### Kinésiologie humaine
 
