@@ -1,6 +1,6 @@
-languageCode = "fr"
-languageName = "French"
-languageDirection = "ltr"
+locale = "fr"
+label = "French"
+direction = "ltr"
 weight = 1
 
 title = "CMP 1315"

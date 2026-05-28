@@ -1,6 +1,6 @@
 theme: congo
 defaultContentLanguage: fr
-enableRobotsTXT: yes
+enableRobotsTXT: true
 summaryLength: 0
 pagination:
   pagerSize: 10
@@ -11,11 +11,15 @@ outputs:
     - JSON
 privacy:
   vimeo:
-    enableDNT: yes
+    enableDNT: true
   x:
-    enableDNT: yes
+    enableDNT: true
   youTube:
-    privacyEnhanced: yes
+    privacyEnhanced: true
 services:
   x:
-    disableInlineCSS: yes
+    disableInlineCSS: true
+security:
+  allowContent:
+    - ^text/
+    - ^application/json$
