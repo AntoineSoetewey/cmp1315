@@ -19,7 +19,7 @@ layout: "simple"
         <div style="flex: 1; min-width: 250px;">
             <h2 style="margin: 0 0 20px 0; font-size: 1.7em; color: #333;">Qui suis-je ?</h2>
             <h3 style="margin: 5px 0 10px; font-size: 1.3em; color: #777;">Psychothérapeute</h3>
-            Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j’exerce depuis 2009 à mi-temps au Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi.
+            Diplômée en psychothérapie systémique depuis 2011 au CEFS (Bruxelles), j’exerce depuis 2009 à mi-temps au Service de Santé Mentale de Wavre et je vous accueille au sein du CMP 1315 le vendredi matin.
         </div>
     </div>
     
@@ -36,7 +36,7 @@ L’expérience professionnelle que j’ai acquise depuis 2009 au sein du Servic
 - Parce que je suis inquiet(e), désemparé(e), impuissant(e) face aux comportements de mon enfant, de ma compagne, de mon compagnon ou toutes autres personnes proches.
 - Etc.
 
-Quel que soit votre questionnement et/ou votre degré de mal-être et de souffrance, je suis disposée à vous accueillir au sein du CMP 1315 le vendredi :
+Quel que soit votre questionnement et/ou votre degré de mal-être et de souffrance, je suis disposée à vous accueillir au sein du CMP 1315 le vendredi matin :
 
 - Pour tenter avec vous de mettre tout d’abord des mots sur votre ressenti
 - Pour tenter, avec vous , de mieux vous comprendre et mieux comprendre le sens et les rouages relationnels dans lequels vous êtes, vous, votre conjoint, votre famille.
@@ -58,6 +58,5 @@ Dans un suivi thérapeutique, j’accorde donc autant d’**attention au ressent
 ## Comment prendre rendez-vous ?
 
 - :telephone_receiver: Par téléphone : [0477/96.88.84](tel:+32477968884)
-- :envelope_with_arrow: Par e-mail : [info@psydelft.be](mailto:info@psydelft.be)
 
 ---
