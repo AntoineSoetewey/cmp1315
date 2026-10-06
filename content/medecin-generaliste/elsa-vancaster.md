@@ -31,7 +31,7 @@ layout: "simple"
     
 ## Consultations
 
-Les consultations ont lieu au sein du centre médical du <span style="color: red; font-weight: bold;">lundi au vendredi de 8h à 18h, sauf le jeudi à partir de 12h, où je suis indisponible.</span> À ce moment-là, ma consœur le Dr Oriane Grandjean est disponible.
+Les consultations ont lieu au sein du centre médical du <span style="color: red; font-weight: bold;">lundi au vendredi de 8h à 18h, sauf le jeudi à partir de 12h, où je suis indisponible.</span>
 
 Différents types de consultation peuvent être réservés via l'agenda en ligne :
 
