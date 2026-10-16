@@ -40,7 +40,8 @@ La semaine entre 18h et 8h du matin, ainsi que le week-end (et les jours férié
 :date: <a href="https://cmp1315.mikrono.com/" target="_blank">
                       Prendre rendez-vous en ligne</a>
 <br>
-:envelope_with_arrow: 
+:envelope_with_arrow: <a href="mailto:drpaulinedelville@hotmail.com">
+                      drpaulinedelville@hotmail.com</a>
 <br>
 :telephone_receiver: <a href="tel:+32498667029">
                       0498/66.70.29</a>
